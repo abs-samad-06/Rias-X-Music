@@ -11,11 +11,11 @@ API_ID = int(getenv("API_ID"))
 API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
-OWNER_ID = int(getenv("OWNER_ID", 7044783841))
-OWNER_USERNAME = getenv("OWNER_USERNAME", "CertifiedCoder")
-BOT_USERNAME = getenv("BOT_USERNAME", "AnnieTheRobot")
-BOT_NAME = getenv("BOT_NAME", "˹𝐀ɴɴɪᴇ ✘ 𝙼ᴜsɪᴄ˼ ♪")
-ASSUSERNAME = getenv("ASSUSERNAME", "musicxannie")
+OWNER_ID = int(getenv("OWNER_ID", 7894534724))
+OWNER_USERNAME = getenv("OWNER_USERNAME", "螿 Sᴜɴɢ•Jɪɴᴡᴏᴏ ࿐")
+BOT_USERNAME = getenv("BOT_USERNAME", "RiasXmusic_bot")
+BOT_NAME = getenv("BOT_NAME", "˹ʀɪᴀꜱ ˣ ᴍᴜꜱɪᴄ˼ ♪")
+ASSUSERNAME = getenv("ASSUSERNAME", "Rias_Assistant")
 EVALOP = list(map(int, getenv("EVALOP", "6797202080").split()))
 
 # ───── Mongo & Logging ───── #
