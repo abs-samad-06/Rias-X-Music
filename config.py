@@ -73,7 +73,7 @@ PLAYLIST_FETCH_LIMIT = int(getenv("PLAYLIST_FETCH_LIMIT", "2500"))
 # ───── Bot Media Assets ───── #
 
 START_VIDS = [
-    "https://files.catbox.moe/z5jacj.jpg",
+    "https://files.catbox.moe/49rq1n.mp4",
     "https://graph.org/file/23e0644e2ce583f939983-2ebae6f6d545c6f890.jpg",
     "https://graph.org/file/893dc5fd32c2bf178b4ba-33c8bb890c467d598b.jpg"
 ]
